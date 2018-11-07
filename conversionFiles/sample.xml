@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+  <personal>
+    <name>
+      <firstname>Spruce</firstname>
+      <lastname>Wayne</lastname>
+    </name>
+    <born>Gotham City</born>
+    <birthdate>1974</birthdate>
+  </personal>
+  <training location="China">
+    <entered>1992</entered>
+    <banished>1994</banished>
+  </training>
+</record>

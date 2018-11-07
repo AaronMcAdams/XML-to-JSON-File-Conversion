@@ -1,0 +1,23 @@
+{
+  "name": "fileconversion",
+  "version": "1.0.0",
+  "description": "testingFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronMcAdams/fileConversion.git"
+  },
+  "author": "Aaron McAdams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronMcAdams/fileConversion/issues"
+  },
+  "homepage": "https://github.com/AaronMcAdams/fileConversion#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "xml2js": "^0.4.19"
+  }
+}
